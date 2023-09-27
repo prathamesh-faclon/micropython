@@ -41,7 +41,7 @@
 	url = https://github.com/jedisct1/libhydrogen.git
 [submodule "lib/pico-sdk"]
 	path = lib/pico-sdk
-	url = https://github.com/prathamesh-faclon/pico-sdk
+	url = https://github.com/prathamesh-faclon/pico-sdk/tree/pico
 [submodule "lib/fsp"]
 	path = lib/fsp
 	url = https://github.com/renesas/fsp.git
